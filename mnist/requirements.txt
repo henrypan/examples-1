@@ -1,6 +1,9 @@
 grpc==0.3.post19
-numpy==1.14.0
+numpy==1.16.3
 Pillow==5.0.0
 python-mnist==0.5
-tensorflow==1.5.0
+tensorflow==1.7.1
 tensorflow-serving-api==1.4.0
+
+bleach>=2.1 # not directly required, pinned by Snyk to avoid a vulnerability
+html5lib>=0.99999999 # not directly required, pinned by Snyk to avoid a vulnerability

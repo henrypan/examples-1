@@ -192,7 +192,7 @@ snowballstemmer==1.2.1
 sortedcollections==0.5.3
 sortedcontainers==1.5.7
 spacy==2.0.5
-Sphinx==1.6.3
+Sphinx==3.0.4
 sphinxcontrib-websupport==1.0.1
 spyder==3.2.3
 SQLAlchemy==1.1.13

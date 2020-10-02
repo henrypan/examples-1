@@ -9,3 +9,5 @@ requests~=2.18.0
 spacy~=2.0.0
 tensor2tensor~=1.7.0
 tensorflow~=1.8.0
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability

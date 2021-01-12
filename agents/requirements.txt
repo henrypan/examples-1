@@ -3,3 +3,4 @@ pybullet==1.7.5
 gym==0.9.4
 tensorflow==1.4.1
 google-cloud-storage==1.7.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability

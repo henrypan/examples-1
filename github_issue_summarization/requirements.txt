@@ -15,7 +15,7 @@ beautifulsoup4==4.6.0
 bitarray==0.8.1
 bkcharts==0.2
 blaze==0.11.3
-bleach==1.5.0
+bleach==3.3.0
 bokeh==0.12.7
 boto==2.48.0
 boto3==1.5.14
@@ -84,7 +84,7 @@ jmespath==0.9.3
 jsonschema==2.6.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
-jupyter-core==4.3.0
+jupyter-core==4.11.2
 jupyterlab==0.27.0
 jupyterlab-launcher==0.4.0
 Keras==2.1.2
@@ -134,7 +134,7 @@ patsy==0.4.1
 pep8==1.7.0
 pexpect==4.3.0
 pickleshare==0.7.4
-Pillow==4.3.0
+Pillow==9.0.1
 pkginfo==1.4.1
 plac==0.9.6
 ply==3.10
@@ -224,7 +224,7 @@ urllib3==1.22
 vega==0.4.4
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 widgetsnbextension==3.0.2
 wrapt==1.10.11
 xlrd==1.1.0

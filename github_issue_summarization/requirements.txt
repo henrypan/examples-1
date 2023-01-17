@@ -55,7 +55,7 @@ filelock==2.0.12
 Flask==0.12.2
 Flask-Cors==3.0.3
 ftfy==4.4.3
-future==0.16.0
+future==0.18.3
 gensim==3.2.0
 gevent==1.2.2
 glob2==0.5

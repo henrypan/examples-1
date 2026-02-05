@@ -107,7 +107,7 @@ multipledispatch==0.4.9
 multiprocess==0.70.5
 murmurhash==0.28.0
 navigator-updater==0.1.0
-nbconvert==5.3.1
+nbconvert==7.17.0
 nbformat==4.4.0
 networkx==2.0
 nltk==3.2.5
@@ -142,7 +142,7 @@ pox==0.2.3
 ppft==1.6.4.7.1
 preshed==1.0.0
 prompt-toolkit==1.0.15
-protobuf==3.5.0
+protobuf==6.33.5
 psutil==5.2.2
 ptyprocess==0.5.2
 py==1.4.34
